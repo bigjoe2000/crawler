@@ -1,14 +1,10 @@
-/.DS_Store
-app/.vscode/
-(base) ghemr:app joe$ cat .gitignore 
-/target/
 **/.DS_Store
-/.settings
-/.project
-/.classpath
-/.vscode
-/.apt_generated/
-/.apt_generated_tests/
-/*-skip-tests.sh
-/.idea
+**/.settings
+**/.project
+**/.classpath
+**/.vscode
+**/.apt_generated/
+**/.apt_generated_tests/
+**/*-skip-tests.sh
+**/.idea
 
