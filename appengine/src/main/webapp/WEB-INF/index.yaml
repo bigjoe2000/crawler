@@ -1,0 +1,6 @@
+indexes:
+- ancestor: true
+  kind: SeenUrl
+  properties:
+  - direction: asc
+    name: done
